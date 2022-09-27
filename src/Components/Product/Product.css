@@ -1,0 +1,31 @@
+.product img{
+    width: 280px;
+    height: 280px;
+    padding-left: 10px;
+    padding-top: 10px;
+    border-radius: 15px;
+}
+.product{
+    height: 520px;
+    width: 300px;
+    border: 1px solid #95a0a7;
+    border-radius: 8px;
+    position: relative;
+    
+}
+.product-info{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: -7px;
+}
+.btn-cart{
+    width: 100%;
+    background-color:#FFE0B3 ;
+    border: none;
+    font-weight: 700;
+    position: absolute;
+    bottom: 0;
+}
+.btn-cart:hover{
+   background-color: orange ; 
+}
